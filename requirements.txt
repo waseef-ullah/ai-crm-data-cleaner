@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pandas
+celery[redis]
+redis
+email-validator
+rapidfuzz
+faker
+python-multipart
+requests
+openai
