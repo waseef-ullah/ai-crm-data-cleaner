@@ -1,4 +1,4 @@
-# 🤖 AI CRM Data Cleaner
+# AI CRM Data Cleaner
 
 AI CRM Data Cleaner is a powerful, lightweight, and extensible tool for cleaning, deduplicating, validating, and enriching CRM contact data using OpenAI and traditional logic. It supports CSV file uploads and processes large datasets in the background using Celery and Redis.
 
@@ -6,18 +6,18 @@ AI CRM Data Cleaner is a powerful, lightweight, and extensible tool for cleaning
 
 ## 🚀 Features
 
-- 🔍 **Email validation** using `email-validator`
-- 🧠 **AI-powered enrichment** with OpenAI GPT (optional)
-- 🧹 **Name, job title, and company normalization**
-- 🏢 **Department guessing & seniority detection**
-- 🌎 **Language detection & translation**
-- 📞 **Phone number standardization (E.164 format)**
-- 🧠 **Intent detection & note summarization**
-- 📊 **Lead scoring, buyer persona classification**
-- 😐 **Sentiment analysis & interest extraction**
-- ❌ **Duplicate detection based on email and name similarity**
-- ⏳ **Background job processing with status tracking**
-- ⚡ **Built with FastAPI, SQLAlchemy, Celery, and Docker**
+- 🔍 Email validation using `email-validator`
+- 🧠 AI-powered enrichment with OpenAI GPT (optional)
+- 🧹 Name, job title, and company normalization
+- 🏢 Department guessing & seniority detection
+- 🌎 Language detection & translation
+- 📞 Phone number standardization (E.164 format)
+- 🧠 Intent detection & note summarization
+- 📊 Lead scoring, buyer persona classification
+- 😐 Sentiment analysis & interest extraction
+- ❌ Duplicate detection based on email and name similarity
+- ⏳ Background job processing with status tracking
+- ⚡ Built with FastAPI, SQLAlchemy, Celery, and Docker
 
 ---
 
