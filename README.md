@@ -118,6 +118,16 @@ Returns job details including status and cleaned row count.
 
 ---
 
+### 📥 Download Cleaned Data
+
+```http
+GET /jobs/{job_id}/download
+```
+
+Returns the cleaned CSV file for the given job as an attachment.
+
+---
+
 ## 🧪 Generate Demo Contacts
 
 ```bash
